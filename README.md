@@ -4,7 +4,7 @@ One of the most common concerns for child safety is the potential injuries occur
 
 **Motivation behind our model Use Cases**
 
-About every 30 minutes tipped furniture or falling TV sends a child to the emergency room,reports also showed that 349 people were killed between 2000 and 2011 by a falling television, appliance or piece of furniture -- 84 percent of them were kids younger than 9 years old. Falling televisions were more deadly, accounting for 62 percent of these fatalities.
+About every 30 minutes, tipped furniture or falling TV sends a child to the emergency room,reports also showed that 349 people were killed between 2000 and 2011 by a falling television, appliance or piece of furniture -- 84 percent of them were kids younger than 9 years old. Falling televisions were more deadly, accounting for 62 percent of these fatalities.
 
 ![unsafe TV](https://wmsrc-1x1yusplq.stackpathdns.com/wp-content/uploads/2015/06/toddler-climbing-TV-e1434340192118.jpg)
 
