@@ -1,4 +1,5 @@
 ## Watch video presentation: https://www.youtube.com/watch?v=7XPtkbsm-7A
+## Watch a demo of the video prototype here: https://www.youtube.com/watch?v=i6pqTZRNtjg&feature=youtu.be
 
 # Childproofing: Heavy Objects
 
